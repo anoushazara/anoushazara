@@ -13,7 +13,7 @@ I'm Anousha Zameer, a developer focused on full-stack applications and practical
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anoushazara&theme=buefy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=anoushazara&label=PROFILE+VIEWS&color=B7A8E8&style=flat-square)
