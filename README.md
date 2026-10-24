@@ -16,6 +16,5 @@ I'm Anousha Zameer, a developer focused on full-stack applications and practical
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anoushazara&icon=2&color=1)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=anoushazara&label=PROFILE+VIEWS&color=B7A8E8&style=flat-square)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
