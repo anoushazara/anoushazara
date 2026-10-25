@@ -51,10 +51,14 @@ My approach is simple: **build with purpose, engineer with care, and make every 
 
 ## 01 · Featured Engineering Projects
 
+## Featured Projects
+
 <table>
   <tr>
     <td width="42%" valign="middle" align="center">
-      <img src="assets/wandersync-banner.png" alt="WanderSync AI-assisted travel planning platform" width="100%">
+      <a href="https://wander-sync-six.vercel.app/">
+        <img src="assets/wandersync-banner.png" alt="WanderSync travel planning platform interface" width="100%">
+      </a>
     </td>
     <td width="58%" valign="middle">
 
@@ -62,48 +66,54 @@ My approach is simple: **build with purpose, engineer with care, and make every 
 
 **AI-Assisted Travel Planning Platform**
 
-A travel-planning application designed to help users explore destinations, organize itineraries, and make more informed travel decisions.
+A modern travel-planning platform that helps users discover destinations, organize trips, and build personalized itineraries with budget-conscious planning workflows.
 
-**Engineering highlights**
-- Destination discovery and trip organization
-- AI-assisted travel planning
-- Personalized itinerary workflows
-- Budget-aware planning features
+**Engineering Highlights**
+- Destination discovery and structured trip organization
+- AI-assisted travel-planning workflows
+- Personalized itinerary creation and management
+- Budget-aware trip planning experience
 
-**Technology**
+**Technology Stack**
+
 `React` `Vite` `Flask` `MongoDB`
 
-<a href="https://github.com/anoushazara/WanderSync"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="WanderSync source code"></a>
-<a href="https://wander-sync-six.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="WanderSync live demo"></a>
+<a href="https://github.com/anoushazara/WanderSync"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View WanderSync source code"></a>
+<a href="https://wander-sync-six.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore WanderSync live demo"></a>
 
 </td>
   </tr>
 </table>
 
+<br>
+
 <table>
   <tr>
     <td width="42%" valign="middle" align="center">
-      <img src="assets/supportnova-banner.png" alt="SupportNova complaint intelligence platform" width="100%">
+      <a href="https://supportnova-five.vercel.app/login">
+        <img src="assets/supportnova-banner.png" alt="SupportNova AI-assisted complaint intelligence platform" width="100%">
+      </a>
     </td>
     <td width="58%" valign="middle">
 
 ### SupportNova
 
-**AI-Powered Complaint Intelligence**
+**AI-Powered Complaint Intelligence Platform**
 
-An AI-assisted complaint management system designed to combine generated complaint analysis with deterministic rule validation and structured human review.
+An intelligent complaint-management solution designed to support complaint analysis, policy-based validation, and structured review workflows, combining AI-generated insights with deterministic business rules and human oversight.
 
-**Engineering highlights**
-- Structured AI-generated complaint intelligence
+**Engineering Highlights**
+- AI-assisted complaint analysis and structured outputs
 - Python-based business-rule validation
 - Complaint review and escalation workflows
-- Human oversight and consistency checks
+- Human-in-the-loop review for consistency and accountability
 
-**Technology**
+**Technology Stack**
+
 `Python` `FastAPI` `React` `PostgreSQL`
 
-<a href="https://github.com/anoushazara/Techwiz7-Generative_AI"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="SupportNova source code"></a>
-<a href="https://supportnova-five.vercel.app/login"><img src="https://img.shields.io/badge/Live_Demo-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="SupportNova live demo"></a>
+<a href="https://github.com/anoushazara/Techwiz7-Generative_AI"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SupportNova source code"></a>
+<a href="https://supportnova-five.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore SupportNova live demo"></a>
 
 </td>
   </tr>
