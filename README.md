@@ -137,7 +137,10 @@ An AI-assisted complaint management system designed to combine generated complai
   <img src="https://img.shields.io/badge/Material_UI-181717?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI">
   <img src="https://img.shields.io/badge/Vue.js-181717?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
   <img src="https://img.shields.io/badge/Three.js-181717?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/React_Native-181717?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
+<img src="https://img.shields.io/badge/WordPress-181717?style=flat-square&logo=wordpress&logoColor=21759B" alt="WordPress">
 </p>
+
 
 ### Backend & API Development
 
@@ -149,6 +152,9 @@ An AI-assisted complaint management system designed to combine generated complai
   <img src="https://img.shields.io/badge/Django-181717?style=flat-square&logo=django&logoColor=092E20" alt="Django">
   <img src="https://img.shields.io/badge/.NET-181717?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET">
   <img src="https://img.shields.io/badge/JWT-181717?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Nodemon-181717?style=flat-square&logo=nodemon&logoColor=BBDEAD" alt="Nodemon">
+<img src="https://img.shields.io/badge/Gunicorn-181717?style=flat-square&logo=gunicorn&logoColor=499848" alt="Gunicorn">
+<img src="https://img.shields.io/badge/Apache-181717?style=flat-square&logo=apache&logoColor=D22128" alt="Apache">
 </p>
 
 ### Databases & Cloud Infrastructure
@@ -175,6 +181,7 @@ An AI-assisted complaint management system designed to combine generated complai
   <img src="https://img.shields.io/badge/TensorFlow-181717?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/Plotly-181717?style=flat-square&logo=plotly&logoColor=3F4F75" alt="Plotly">
+  <img src="https://img.shields.io/badge/Matplotlib-181717?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
 </p>
 
 ### Developer Tools
@@ -184,6 +191,9 @@ An AI-assisted complaint management system designed to combine generated complai
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Postman-181717?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
   <img src="https://img.shields.io/badge/Flutter-181717?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter">
+  <img src="https://img.shields.io/badge/Canva-181717?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva">
+<img src="https://img.shields.io/badge/Jira-181717?style=flat-square&logo=jira&logoColor=0052CC" alt="Jira">
+<img src="https://img.shields.io/badge/Trello-181717?style=flat-square&logo=trello&logoColor=0052CC" alt="Trello">
 </p>
 
 ---
