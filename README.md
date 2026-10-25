@@ -1,48 +1,231 @@
-# 💫 About Me:
-I'm Anousha Zameer, a developer focused on full-stack applications and practical AI engineering. I enjoy building useful products, designing reliable backend systems, and making AI-assisted workflows more transparent and testable.
+# Anousha Zameer
 
+### Full-Stack Developer · AI Engineering Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anoushazara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anousha-zameer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anoushazameer@gmail.com) 
+**Building software that solves real problems — with thoughtful engineering, practical AI, and reliable systems.**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-## 🚀 Featured Projects
+I’m Anousha Zameer, a developer focused on full-stack applications, practical AI engineering, and dependable backend systems. I enjoy transforming ideas into useful products, designing maintainable architectures, and making AI-assisted workflows more transparent and testable.
 
-### ✈️ WanderSync — AI-Powered Travel Planning
-
-<p align="center">
-  <img src="assets/wandersync-banner.png" alt="WanderSync Project Banner" width="100%">
+<p align="left">
+  <a href="https://linkedin.com/in/anousha-zameer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/anoushazara"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:anoushazameer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
-An AI-assisted travel planning application designed to help users explore destinations, plan itineraries, and consider their travel budgets.
-
-**Tech Stack:** React · Vite · Flask · MongoDB
-
-[View Repository](https://github.com/anoushazara/WanderSync) · [Live Demo](https://wander-sync-six.vercel.app)
 
 ---
 
-### 🤖 SupportNova — AI-Powered Complaint Intelligence
+## `01` — What I Build
 
-<p align="center">
-  <img src="assets/supportnova-banner.png" alt="SupportNova Project Banner" width="100%">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI-assisted complaint intelligence system that combines AI-generated analysis with Python rule validation and human review workflows to support more consistent complaint resolution.
+### ◈ Full-Stack Development
 
-**Tech Stack:** FastAPI · Python · React · PostgreSQL
+Responsive applications, REST APIs, authentication, and database-driven products.
 
-[View Repository](https://github.com/anoushazara/Techwiz7-Generative_AI) · [Live Demo](https://supportnova-five.vercel.app/login)
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anoushazara&theme=buefy&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anoushazara&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anoushazara&theme=buefy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### ◈ Practical AI Engineering
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+AI-assisted workflows, structured outputs, validation, and human-in-the-loop systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Backend Engineering
+
+API architecture, business logic, data modeling, and maintainable services.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Product Development
+
+Turning ideas into usable applications with clear documentation and thoughtful UX.
+
+</td>
+</tr>
+</table>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=anoushazara&label=PROFILE+VIEWS&color=B7A8E8&style=flat-square)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## `02` — Featured Projects
+
+<table>
+<tr>
+<td width="45%" valign="middle">
+<img src="assets/wandersync-banner.png" alt="WanderSync — AI-assisted travel planning platform" width="100%">
+</td>
+<td width="55%" valign="middle">
+
+<h3>✈️ WanderSync</h3>
+
+<strong>AI-Assisted Travel Planning Platform</strong>
+
+Explore destinations, organize personalized itineraries, and plan smarter trips with budget-aware travel features.
+
+**✧ Core Features**
+
+- 🌍 Destination discovery
+- 🤖 AI-assisted travel planning
+- 🗺️ Personalized itineraries
+- 💰 Budget-aware trip planning
+
+**⚙️ Built With**
+
+`React` · `Vite` · `Flask` · `MongoDB`
+
+<br>
+
+<a href="https://github.com/anoushazara/WanderSync"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+
+<a href="https://wander-sync-six.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="45%" valign="middle">
+<img src="assets/supportnova-banner.png" alt="SupportNova — AI-powered complaint intelligence" width="100%">
+</td>
+<td width="55%" valign="middle">
+
+<h3>✦ SupportNova</h3>
+
+<strong>AI-Powered Complaint Intelligence</strong>
+
+An AI-assisted complaint management system combining generated analysis, deterministic Python rule validation, and human review workflows.
+
+**✧ Core Features**
+
+- 🧠 AI-assisted complaint analysis
+- ⚙️ Python-based rule validation
+- 🔎 Complaint review workflows
+- 🛡️ Human oversight and consistency checks
+
+**⚙️ Built With**
+
+`Python` · `FastAPI` · `React` · `PostgreSQL`
+
+<br>
+
+<a href="https://github.com/anoushazara/Techwiz7-Generative_AI"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+
+<a href="https://supportnova-five.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — Technology Toolkit
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/PHP-171717?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
+<img src="https://img.shields.io/badge/C%23-171717?style=flat-square&logo=csharp&logoColor=239120" alt="C Sharp">
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
+<img src="https://img.shields.io/badge/R-171717?style=flat-square&logo=r&logoColor=276DC3" alt="R">
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
+<img src="https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+<img src="https://img.shields.io/badge/Bootstrap-171717?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Tailwind_CSS-171717?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Material_UI-171717?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI">
+<img src="https://img.shields.io/badge/Vue.js-171717?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+<img src="https://img.shields.io/badge/Three.js-171717?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+<img src="https://img.shields.io/badge/Flask-171717?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-171717?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Django-171717?style=flat-square&logo=django&logoColor=092E20" alt="Django">
+<img src="https://img.shields.io/badge/.NET-171717?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET">
+<img src="https://img.shields.io/badge/JWT-171717?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
+<img src="https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+<img src="https://img.shields.io/badge/SQLite-171717?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
+<img src="https://img.shields.io/badge/SQL_Server-171717?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server">
+<img src="https://img.shields.io/badge/Firebase-171717?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
+<img src="https://img.shields.io/badge/Azure-171717?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure">
+<img src="https://img.shields.io/badge/Vercel-171717?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Netlify-171717?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify">
+<img src="https://img.shields.io/badge/Render-171717?style=flat-square&logo=render&logoColor=46E3B7" alt="Render">
+<img src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Postman-171717?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
+<img src="https://img.shields.io/badge/Flutter-171717?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter">
+</p>
+
+### Data Science & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-171717?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-171717?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas">
+<img src="https://img.shields.io/badge/Scikit--learn-171717?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/TensorFlow-171717?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+<img src="https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+<img src="https://img.shields.io/badge/Plotly-171717?style=flat-square&logo=plotly&logoColor=3F4F75" alt="Plotly">
+</p>
+
+---
+
+## `04` — GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anoushazara&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" width="49%">
+  <img src="https://streak-stats.demolab.com/?user=anoushazara&hide_border=true&theme=transparent" alt="GitHub contribution streak" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushazara&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used programming languages">
+</p>
+
+---
+
+## `05` — Engineering Principles
+
+- **Build for real users:** Prioritize usefulness over appearance alone.
+- **Write maintainable code:** Prefer clarity over unnecessary complexity.
+- **Validate AI outputs:** Combine AI capabilities with reliable checks.
+- **Document decisions:** Make projects easier to understand and reproduce.
+- **Keep learning:** Improve through experimentation, feedback, and collaboration.
+
+---
+
+<p align="center">
+  <strong>Curiosity → Engineering → Real-world impact</strong>
+  <br><br>
+  Thanks for visiting my GitHub. Explore my projects and follow my journey in software engineering.
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=anoushazara&label=PROFILE%20VIEWS&color=0D9488&style=flat-square" alt="Profile views">
+</p>
