@@ -33,7 +33,7 @@ An AI-assisted complaint intelligence system that combines AI-generated analysis
 
 **Tech Stack:** FastAPI · Python · React · PostgreSQL
 
-[View Repository](https://github.com/anoushazara/Techwiz7-Generative_AI) · [Live Demo] (https://supportnova-five.vercel.app/login)
+[View Repository](https://github.com/anoushazara/Techwiz7-Generative_AI) · [Live Demo](https://supportnova-five.vercel.app/login)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anoushazara&theme=buefy&hide_border=true&include_all_commits=true&count_private=false)<br/>
