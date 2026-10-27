@@ -54,11 +54,39 @@ My approach is simple: **build with purpose, engineer with care, and make every 
 ## Featured Projects
 
 <table>
-  <tr>
-    <td width="42%" valign="middle" align="center">
-      <a href="https://wander-sync-six.vercel.app/">
-        <img src="assets/wandersync-banner.png" alt="WanderSync travel planning platform interface" width="100%">
-      </a>
+  <tr>    
+<td width="42%" valign="middle" align="center">
+  <a href="https://wander-sync-six.vercel.app/">
+    <img
+      src="assets/wandersync-banner.png"
+      alt="WanderSync — AI-powered travel planning platform"
+      width="100%"
+    />
+  </a>
+
+  <h3>Technology Stack</h3>
+
+  <p>
+    <code>React</code>
+    <code>Vite</code>
+    <code>Flask</code>
+    <code>MongoDB</code>
+  </p>
+
+  <p>
+    <a href="https://github.com/anoushazara/WanderSync">
+      <img
+        src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"
+        alt="View WanderSync source code"
+      />
+    </a>
+    <a href="https://wander-sync-six.vercel.app/">
+      <img
+        src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Explore WanderSync live demo"
+      />
+    </a>
+  </p>
     </td>
     <td width="58%" valign="middle">
 
@@ -74,12 +102,7 @@ A modern travel-planning platform that helps users discover destinations, organi
 - Personalized itinerary creation and management
 - Budget-aware trip planning experience
 
-**Technology Stack**
 
-`React` `Vite` `Flask` `MongoDB`
-
-<a href="https://github.com/anoushazara/WanderSync"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View WanderSync source code"></a>
-<a href="https://wander-sync-six.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore WanderSync live demo"></a>
 
 </td>
   </tr>
@@ -91,31 +114,36 @@ A modern travel-planning platform that helps users discover destinations, organi
   <tr>
     <td width="42%" valign="middle" align="center">
       <a href="https://supportnova-five.vercel.app/login">
-        <img src="assets/supportnova-banner.png" alt="SupportNova AI-assisted complaint intelligence platform" width="100%">
+        <img src="assets/supportnova-banner.png" alt="SupportNova AI complaint intelligence platform" width="100%">
       </a>
+      <h3>Technology Stack</h3>
+      <p>
+        <code>Python</code>
+        <code>FastAPI</code>
+        <code>React</code>
+        <code>PostgreSQL</code>
+      </p>
+      <p>
+        <a href="https://github.com/anoushazara/Techwiz7-Generative_AI">
+          <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source code">
+        </a>
+        <a href="https://supportnova-five.vercel.app/login">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo">
+        </a>
+      </p>
     </td>
     <td width="58%" valign="middle">
-
-### SupportNova
-
-**AI-Powered Complaint Intelligence Platform**
-
-An intelligent complaint-management solution designed to support complaint analysis, policy-based validation, and structured review workflows, combining AI-generated insights with deterministic business rules and human oversight.
-
-**Engineering Highlights**
-- AI-assisted complaint analysis and structured outputs
-- Python-based business-rule validation
-- Complaint review and escalation workflows
-- Human-in-the-loop review for consistency and accountability
-
-**Technology Stack**
-
-`Python` `FastAPI` `React` `PostgreSQL`
-
-<a href="https://github.com/anoushazara/Techwiz7-Generative_AI"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SupportNova source code"></a>
-<a href="https://supportnova-five.vercel.app/login"><img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore SupportNova live demo"></a>
-
-</td>
+      <h3>SupportNova</h3>
+      <p><strong>AI-Powered Complaint Intelligence Platform</strong></p>
+      <p>An intelligent complaint-management platform combining AI-assisted analysis, deterministic business-rule validation, and human oversight to support structured resolution workflows.</p>
+      <strong>Engineering Highlights</strong>
+      <ul>
+        <li>AI-assisted complaint analysis and structured outputs</li>
+        <li>Python-based business-rule validation</li>
+        <li>Complaint review and escalation workflows</li>
+        <li>Human-in-the-loop validation and accountability</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
