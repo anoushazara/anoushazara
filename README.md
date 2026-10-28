@@ -1,17 +1,12 @@
 
-<!--
-  ANOUSHA ZAMEER | GITHUB PROFILE
-  Design: Midnight Navy · Electric Blue · Teal
-  Keep image paths and project URLs updated.
--->
+<!-- ANOUSHA ZAMEER | GitHub Profile README -->
 
 <div align="center">
 
-  <h1>Anousha Zameer</h1>
-
+  <h1>Anousha Zameer <small>(@anoushazara)</small></h1> 
   <h3>Full-Stack Developer · AI Engineering Enthusiast</h3>
 
-  <p>
+ <p>
     <strong>Engineering useful software. Building reliable systems. Making AI more practical.</strong>
   </p>
 
@@ -29,7 +24,7 @@
       <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </p>
-
+   
 </div>
 
 ---
@@ -40,71 +35,51 @@ I'm Anousha Zameer, a developer focused on full-stack applications, practical AI
 
 I enjoy turning ideas into usable products, designing maintainable architectures, and building AI-assisted workflows that combine intelligent generation with deterministic validation and human oversight.
 
-My approach is simple: **build with purpose, engineer with care, and make every system easier to understand and trust.**
+**My approach:** Build with purpose, engineer with care, and make every system easier to understand and trust.
 
 - **Focus:** Full-stack development, backend engineering, and applied AI
-- **Interests:** API design, database systems, AI-assisted workflows, and software architecture
+- **Interests:** API design, databases, AI-assisted workflows, and software architecture
 - **Engineering mindset:** Readable code, validated outputs, useful documentation, and measurable improvements
-- **Currently building:** Practical applications that connect modern web technologies with intelligent automation
+- **Currently building:** Practical applications connecting modern web technologies with intelligent automation
 
 ---
 
 ## 01 · Featured Engineering Projects
 
-## Featured Projects
-
 <table>
-  <tr>    
-<td width="42%" valign="middle" align="center">
-  <a href="https://wander-sync-six.vercel.app/">
-    <img
-      src="assets/wandersync-banner.png"
-      alt="WanderSync — AI-powered travel planning platform"
-      width="100%"
-    />
-  </a>
-
-  <h3>Technology Stack</h3>
-
-  <p>
-    <code>React</code>
-    <code>Vite</code>
-    <code>Flask</code>
-    <code>MongoDB</code>
-  </p>
-
-  <p>
-    <a href="https://github.com/anoushazara/WanderSync">
-      <img
-        src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"
-        alt="View WanderSync source code"
-      />
-    </a>
-    <a href="https://wander-sync-six.vercel.app/">
-      <img
-        src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white"
-        alt="Explore WanderSync live demo"
-      />
-    </a>
-  </p>
+  <tr>
+    <td width="42%" valign="top" align="center">
+      <a href="https://wander-sync-six.vercel.app/">
+        <img src="assets/wandersync-banner.png" width="100%" alt="WanderSync AI-assisted travel planning platform">
+      </a>
+      <h3>Technology Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+        <img src="https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      </p>
+      <p>
+        <a href="https://github.com/anoushazara/WanderSync">
+          <img src="https://img.shields.io/badge/VIEW_SOURCE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View source">
+        </a>
+        <a href="https://wander-sync-six.vercel.app/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo">
+        </a>
+      </p>
     </td>
     <td width="58%" valign="middle">
-
-### WanderSync
-
-**AI-Assisted Travel Planning Platform**
-
-A modern travel-planning platform that helps users discover destinations, organize trips, and build personalized itineraries with budget-conscious planning workflows.
-
-**Engineering Highlights**
-- Destination discovery and structured trip organization
-- AI-assisted travel-planning workflows
-- Personalized itinerary creation and management
-- Budget-aware trip planning experience
-
-
-
-</td>
+      <h3>WanderSync</h3>
+      <p><strong>AI-Assisted Travel Planning Platform</strong></p>
+      <p>A travel-planning application designed to help users discover destinations, organize trips, and create personalized itineraries with budget-conscious planning workflows.</p>
+      <p><strong>Engineering Highlights</strong></p>
+      <ul>
+        <li>Destination discovery and trip organization</li>
+        <li>AI-assisted travel-planning workflows</li>
+        <li>Personalized itinerary creation and management</li>
+        <li>Budget-aware trip planning experience</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -112,20 +87,20 @@ A modern travel-planning platform that helps users discover destinations, organi
 
 <table>
   <tr>
-    <td width="42%" valign="middle" align="center">
+    <td width="42%" valign="top" align="center">
       <a href="https://supportnova-five.vercel.app/login">
-        <img src="assets/supportnova-banner.png" alt="SupportNova AI complaint intelligence platform" width="100%">
+        <img src="assets/supportnova-banner.png" width="100%" alt="SupportNova AI-powered complaint intelligence platform">
       </a>
       <h3>Technology Stack</h3>
       <p>
-        <code>Python</code>
-        <code>FastAPI</code>
-        <code>React</code>
-        <code>PostgreSQL</code>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </p>
       <p>
         <a href="https://github.com/anoushazara/Techwiz7-Generative_AI">
-          <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source code">
+          <img src="https://img.shields.io/badge/VIEW_SOURCE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View source">
         </a>
         <a href="https://supportnova-five.vercel.app/login">
           <img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo">
@@ -135,13 +110,13 @@ A modern travel-planning platform that helps users discover destinations, organi
     <td width="58%" valign="middle">
       <h3>SupportNova</h3>
       <p><strong>AI-Powered Complaint Intelligence Platform</strong></p>
-      <p>An intelligent complaint-management platform combining AI-assisted analysis, deterministic business-rule validation, and human oversight to support structured resolution workflows.</p>
-      <strong>Engineering Highlights</strong>
+      <p>A complaint-management platform combining AI-assisted analysis, deterministic business-rule validation, and human oversight to support structured resolution workflows.</p>
+      <p><strong>Engineering Highlights</strong></p>
       <ul>
         <li>AI-assisted complaint analysis and structured outputs</li>
         <li>Python-based business-rule validation</li>
         <li>Complaint review and escalation workflows</li>
-        <li>Human-in-the-loop validation and accountability</li>
+        <li>Human-in-the-loop review for accountability</li>
       </ul>
     </td>
   </tr>
@@ -149,167 +124,188 @@ A modern travel-planning platform that helps users discover destinations, organi
 
 ---
 
-## 02 · Technical Expertise
+## 02 · Engineering Blueprint
+
+<div align="center">
+  <p><em>From a real-world problem to a thoughtfully engineered solution.</em></p>
+</div>
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>01</h3>
+      <p>🔎</p>
+      <strong>Discover</strong>
+      <p>Understand requirements and user needs.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>02</h3>
+      <p>🏗️</p>
+      <strong>Architect</strong>
+      <p>Choose suitable technologies and define boundaries.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>03</h3>
+      <p>⚙️</p>
+      <strong>Engineer</strong>
+      <p>Build maintainable features and reliable logic.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>04</h3>
+      <p>✓</p>
+      <strong>Validate</strong>
+      <p>Test behavior, examine edge cases, and improve.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub>CLEAN ARCHITECTURE · PRACTICAL AI · RELIABLE SOFTWARE</sub>
+</div>
+
+---
+
+## 03 · Technical Expertise
 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-181717?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
-  <img src="https://img.shields.io/badge/C%23-181717?style=flat-square&logo=csharp&logoColor=239120" alt="C sharp">
-  <img src="https://img.shields.io/badge/Java-181717?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
-  <img src="https://img.shields.io/badge/R-181717?style=flat-square&logo=r&logoColor=276DC3" alt="R">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=181717" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
 </p>
 
 ### Frontend Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/React-181717?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vite-181717?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-181717?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-181717?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Material_UI-181717?style=flat-square&logo=mui&logoColor=007FFF" alt="Material UI">
-  <img src="https://img.shields.io/badge/Vue.js-181717?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Three.js-181717?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/React_Native-181717?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/WordPress-181717?style=flat-square&logo=wordpress&logoColor=21759B" alt="WordPress">
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Three.js-181818?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/React_Native-149ECA?style=flat-square&logo=react&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
-
 
 ### Backend & API Development
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-181717?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-181717?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Django-181717?style=flat-square&logo=django&logoColor=092E20" alt="Django">
-  <img src="https://img.shields.io/badge/.NET-181717?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET">
-  <img src="https://img.shields.io/badge/JWT-181717?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/Nodemon-181717?style=flat-square&logo=nodemon&logoColor=BBDEAD" alt="Nodemon">
-<img src="https://img.shields.io/badge/Gunicorn-181717?style=flat-square&logo=gunicorn&logoColor=499848" alt="Gunicorn">
-<img src="https://img.shields.io/badge/Apache-181717?style=flat-square&logo=apache&logoColor=D22128" alt="Apache">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-444444?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/JWT-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Nodemon-466B3A?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon">
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" alt="Gunicorn">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
 </p>
 
 ### Databases & Cloud Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-181717?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQLite-181717?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite">
-  <img src="https://img.shields.io/badge/SQL_Server-181717?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Firebase-181717?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
-  <img src="https://img.shields.io/badge/Azure-181717?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure">
-  <img src="https://img.shields.io/badge/Vercel-181717?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-181717?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/Render-181717?style=flat-square&logo=render&logoColor=46E3B7" alt="Render">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Vercel-181818?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Netlify-008F83?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-267D62?style=flat-square&logo=render&logoColor=white" alt="Render">
 </p>
 
 ### Data Science & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-181717?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-181717?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit--learn-181717?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-181717?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-181717?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Plotly-181717?style=flat-square&logo=plotly&logoColor=3F4F75" alt="Plotly">
-  <img src="https://img.shields.io/badge/Matplotlib-181717?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
 </p>
 
 ### Developer Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-181717?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
-  <img src="https://img.shields.io/badge/Flutter-181717?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter">
-  <img src="https://img.shields.io/badge/Canva-181717?style=flat-square&logo=canva&logoColor=00C4CC" alt="Canva">
-<img src="https://img.shields.io/badge/Jira-181717?style=flat-square&logo=jira&logoColor=0052CC" alt="Jira">
-<img src="https://img.shields.io/badge/Trello-181717?style=flat-square&logo=trello&logoColor=0052CC" alt="Trello">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Canva-00A99D?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello">
+   <img src="https://img.shields.io/badge/ClickUp-0052CC?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
 
 ---
 
-## 03 · GitHub Analytics
+## 04 · GitHub Analytics
 
 <div align="center">
-
   <a href="https://github.com/anoushazara">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=anoushazara&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=anoushazara&show_icons=true&hide_border=true&theme=buefy&rank_icon=github" alt="GitHub statistics">
   </a>
   <a href="https://github.com/anoushazara">
-    <img height="165" src="https://streak-stats.demolab.com/?user=anoushazara&hide_border=true&theme=transparent" alt="GitHub contribution streak">
+    <img height="165" src="https://streak-stats.demolab.com/?user=anoushazara&hide_border=true&theme=buefy" alt="GitHub contribution streak">
   </a>
-
   <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushazara&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used programming languages">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushazara&layout=compact&hide_border=true&theme=buefy&langs_count=8" alt="Most-used programming languages">
 </div>
 
 ---
 
-## 04 · Engineering Principles
+## 05 · Engineering Principles
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-**01 — Purposeful Engineering**
-
-Build software around real user needs, not features without a purpose.
-
-</td>
+      <strong>01 — Purposeful Engineering</strong>
+      <p>Build software around real user needs, not features without a purpose.</p>
+    </td>
     <td width="50%" valign="top">
-
-**02 — Reliable Systems**
-
-Use clear logic, validation, and predictable behavior wherever possible.
-
-</td>
+      <strong>02 — Reliable Systems</strong>
+      <p>Use clear logic, validation, and predictable behavior wherever possible.</p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-**03 — Responsible AI**
-
-Combine AI capabilities with validation, transparency, and appropriate human oversight.
-
-</td>
+      <strong>03 — Responsible AI</strong>
+      <p>Combine AI capabilities with validation, transparency, and human oversight.</p>
+    </td>
     <td width="50%" valign="top">
-
-**04 — Maintainable Code**
-
-Favor readable implementations, useful documentation, and reusable components.
-
-</td>
+      <strong>04 — Maintainable Code</strong>
+      <p>Favor readable implementations, useful documentation, and reusable components.</p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 05 · What's Next
+## 06 · What's Next
 
-I’m continuing to strengthen my software engineering foundations, explore practical AI systems, and develop projects that demonstrate real technical problem-solving.
+I'm continuing to strengthen my software engineering foundations, explore practical AI systems, and develop projects that demonstrate real technical problem-solving.
 
 My goal is to build software that is not only functional, but also reliable, maintainable, and genuinely useful.
 
 <div align="center">
-
   <p><strong>Ideas → Engineering → Impact</strong></p>
-
-  <p>
-    Thanks for visiting my profile.
-    <br>
-    Explore my repositories, review my work, and follow my engineering journey.
-  </p>
-
+  <p>Thanks for visiting my profile. Explore my repositories and follow my engineering journey.</p>
+  <a href="https://github.com/anoushazara?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+  </a>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=anoushazara&label=PROFILE%20VIEWS&color=0D9488&style=flat-square" alt="Profile views">
-
 </div>
